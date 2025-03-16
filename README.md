@@ -1,9 +1,9 @@
 # Real-Time Threat Detection System
-#📜 Overview
+# 📜 Overview
 
 This project focuses on Real-Time Threat Detection using Video Surveillance, designed to detect threats such as violence, presence of weapons, or abnormal behaviors in public spaces. It leverages deep learning-based video classification models for accurate behavior analysis. The system can process CCTV footage and raise alarms when suspicious activities are detected, thereby improving public safety and proactive threat response.
 
-#💡 Key Features
+# 💡 Key Features
 🎥 Video Upload & Real-Time Processing: Upload and analyze videos for detecting potential threats.
 
 🧠 Deep Learning-based Classification: Utilizes CNN + GRU-based architecture for action and behavior recognition.
